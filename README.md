@@ -12,7 +12,6 @@ Index images with a vision model (Ollama) and search them by text. Includes a fa
 Install dependencies:
 
 ```powershell
-cd d:\DEV\_LLM\Tools\image-desc-search
 pip install -r .\requirements.txt
 ```
 
